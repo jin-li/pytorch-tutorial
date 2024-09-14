@@ -18,6 +18,7 @@
 - [实例学PyTorch（2）：MNIST手写数字识别中的参数选择（二）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch2mnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E4%B8%AD%E7%9A%84%E5%8F%82%E6%95%B0%E9%80%89%E6%8B%A9%E4%BA%8C/)
 - [实例学PyTorch（3）：使用卷积神经网络实现MNIST手写数字识别（三）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch3%E4%BD%BF%E7%94%A8%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0mnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E4%B8%89/)
 - [实例学PyTorch（4）：使用循环神经网络实现序列预测（一）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch4%E4%BD%BF%E7%94%A8%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%B8%80/)
+- [实例学PyTorch（5）：使用GRU和LSTM实现序列预测（二）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch5%E4%BD%BF%E7%94%A8gru%E5%92%8Clstm%E5%AE%9E%E7%8E%B0%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%BA%8C/)
 
 ## 快速开始
 

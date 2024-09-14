@@ -17,7 +17,8 @@ The "Learn PyTorch with Examples" series of articles are published on the author
 - [Learn PyTorch by Examples（1）：PyTorch Basics and MNIST Handwritten Digit Recognition (I)](https://jinli.io/en/p/learn-pytorch-by-examples1pytorch-basics-and-mnist-handwritten-digit-recognition-i/)
 - [Learn PyTorch by Examples (2): Parameter Selection in MNIST Handwritten Digit Recognition (II)](https://jinli.io/en/p/learn-pytorch-by-examples-2-parameter-selection-in-mnist-handwritten-digit-recognition-ii/)
 - [Learn PyTorch by Examples (3): Implementing MNIST Handwritten Digit Recognition with Convolutional Neural Networks (III)](https://jinli.io/en/p/learn-pytorch-by-examples-3-implementing-mnist-handwritten-digit-recognition-with-convolutional-neural-networks-iii/)
-- [Learn PyTorch by Example (4): Sequence Prediction with Recurrent Neural Networks (I)](https://jinli.io/en/p/learn-pytorch-by-example-4-sequence-prediction-with-recurrent-neural-networks-i/)
+- [Learn PyTorch by Examples (4): Sequence Prediction with Recurrent Neural Networks (I)](https://jinli.io/en/p/learn-pytorch-by-examples-4-sequence-prediction-with-recurrent-neural-networks-i/)
+- [Learn PyTorch by Examples (5): Sequence Prediction with LSTM and GRU (II)](https://jinli.io/en/p/learn-pytorch-by-examples-5-sequence-prediction-with-lstm-and-gru-ii/)
 
 ## Quick Start
 
