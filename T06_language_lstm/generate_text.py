@@ -43,7 +43,7 @@ def generate_text(device, checkpoint, data_source, words, temperature, log_inter
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='PyTorch Wikitext-2 Language Model')
-    parser.add_argument('--data', type=str, default='./wikitext-2',
+    parser.add_argument('--data', type=str, default='../data/wikitext-2',
                         help='location of the data corpus')
     parser.add_argument('--checkpoint', type=str, default='./model.pt',
                         help='model checkpoint to use')

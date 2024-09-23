@@ -26,7 +26,7 @@ def get_batch(source, i):
     target = source[i+1:i+1+seq_len].view(-1)
     return data, target
 
-def evaluate(device, model, epoch, eval_data, batch_size, criterion, seq_len):
+def evaluate(device, model, eval_data, batch_size, criterion, seq_len):
     model.eval()
     total_loss = 0.
     hidden = model.init_hidden(batch_size)
@@ -87,7 +87,7 @@ def language_model(device, data_source="../data/wikitext-2", epochs=50, batch_si
         for epoch in range(1, epochs+1):
             epoch_start_time = time.time()
             train_loss_tmp = train(device, model, epoch, train_data, batch_size, criterion, lr, 200, seq_len)
-            val_loss_tmp = evaluate(device, model, epoch, val_data, eval_batch_size, criterion, seq_len)
+            val_loss_tmp = evaluate(device, model, val_data, eval_batch_size, criterion, seq_len)
             train_losses.append(train_loss_tmp)
             val_losses.append(val_loss_tmp)
             print('-' * 89)
@@ -104,7 +104,7 @@ def language_model(device, data_source="../data/wikitext-2", epochs=50, batch_si
     except KeyboardInterrupt:
         print('-' * 89)
         print('Exiting from training early')
-    test_loss = evaluate(device, model, epoch, test_data, eval_batch_size, criterion, seq_len)
+    test_loss = evaluate(device, model, test_data, eval_batch_size, criterion, seq_len)
     print('=' * 89)
     print('| End of training | test loss {:5.2f} | test ppl {:8.2f}'.format(
         test_loss, math.exp(test_loss)))

@@ -25,13 +25,16 @@ pip install -r requirements.txt
     - Run the model, plot performance curves:
     
         ```bash
-        python language_lstm.py
+        python language_lstm.py --plot
         ```
 
-        By default, it trains 50 epochs using CUDA. If CUDA is not available, it uses MPS or CPU for training. Training may take a long time, you can interrupt the training with Ctrl+C.
+        - By default, it trains 50 epochs using CUDA. If CUDA is not available, it uses MPS or CPU for training. Training may take a long time, you can interrupt the training with Ctrl+C.
+        - You can also specify training parameters through command line arguments, see the code or use `python language_lstm.py -h` for help.
     
     - Generate text:
     
         ```bash
         python generate_text.py
         ```
+
+        You can specify parameters for generating text through command line arguments, see the code or use `python generate_text.py -h` for help.

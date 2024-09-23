@@ -25,13 +25,16 @@ pip install -r requirements.txt
     - 运行模型，绘制性能曲线：
     
         ```bash
-        python language_lstm.py
+        python language_lstm.py --plot
         ```
 
-        默认使用CUDA训练50个epoch。如果没有CUDA，则使用MPS或CPU训练。训练时间可能较长，你可以使用Ctrl+C中断训练。
+        - 默认使用CUDA训练50个epoch。如果没有CUDA，则使用MPS或CPU训练。训练时间可能较长，你可以使用Ctrl+C中断训练。
+        - 你也可以通过命令行参数指定训练参数，具体参见代码或者使用`python language_lstm.py -h`查看帮助。
     
     - 生成文本：
     
         ```bash
         python generate_text.py
         ```
+
+        你可以通过命令行参数指定生成文本时的参数，具体参见代码或者使用`python generate_text.py -h`查看帮助。
