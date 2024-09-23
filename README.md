@@ -14,12 +14,13 @@
 
 《实例学PyTorch》系列文章发布在作者的个人博客上，文章有中文版和英文版，文章列表如下：
 
-- [实例学PyTorch（1）：PyTorch基础及MNIST手写数字识别（一）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch1pytorch%E5%9F%BA%E7%A1%80%E5%8F%8Amnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB/)
-- [实例学PyTorch（2）：MNIST手写数字识别中的参数选择（二）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch2mnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E4%B8%AD%E7%9A%84%E5%8F%82%E6%95%B0%E9%80%89%E6%8B%A9%E4%BA%8C/)
-- [实例学PyTorch（3）：使用卷积神经网络实现MNIST手写数字识别（三）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch3%E4%BD%BF%E7%94%A8%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0mnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E4%B8%89/)
-- [实例学PyTorch（4）：使用循环神经网络实现序列预测（一）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch4%E4%BD%BF%E7%94%A8%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%B8%80/)
-- [实例学PyTorch（5）：使用GRU和LSTM实现序列预测（二）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch5%E4%BD%BF%E7%94%A8gru%E5%92%8Clstm%E5%AE%9E%E7%8E%B0%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%BA%8C/)
-- [实例学PyTorch（6）：语言模型——使用LSTM实现词级语言模型（一）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch6%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%BD%BF%E7%94%A8lstm%E5%AE%9E%E7%8E%B0%E8%AF%8D%E7%BA%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%80/)
+- [实例学PyTorch（1）：MNIST手写数字识别（一）——PyTorch基础和神经网络基础](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch1mnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E4%B8%80pytorch%E5%9F%BA%E7%A1%80%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/)
+- [实例学PyTorch（2）：MNIST手写数字识别（二）——神经网络中的参数选择](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch2mnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E4%BA%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%AD%E7%9A%84%E5%8F%82%E6%95%B0%E9%80%89%E6%8B%A9/)
+- [实例学PyTorch（3）：MNIST手写数字识别（三）——卷积神经网络（CNN）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch3mnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E4%B8%89%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9Ccnn/)
+- [实例学PyTorch（4）：序列预测（一）——循环神经网络（RNN）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%B8%80%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9Crnn/)
+- [实例学PyTorch（5）：序列预测（二）——门控循环单元（GRU）和长短期记忆网络（LSTM）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch5%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%BA%8C%E9%97%A8%E6%8E%A7%E5%BE%AA%E7%8E%AF%E5%8D%95%E5%85%83gru%E5%92%8C%E9%95%BF%E7%9F%AD%E6%9C%9F%E8%AE%B0%E5%BF%86%E7%BD%91%E7%BB%9Clstm/)
+- [实例学PyTorch（6）：语言模型（一）——使用LSTM实现词级语言模型](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch6%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%80%E4%BD%BF%E7%94%A8lstm%E5%AE%9E%E7%8E%B0%E8%AF%8D%E7%BA%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/)
+
 
 ## 快速开始
 

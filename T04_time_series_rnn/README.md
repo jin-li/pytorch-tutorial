@@ -2,7 +2,7 @@
 
 # PyTorch 序列预测（一）
 
-本文件夹包含了[《实例学PyTorch（4）：使用循环神经网络实现序列预测（一）》](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch4%E4%BD%BF%E7%94%A8%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%B8%80/)文章中使用的代码。
+本文件夹包含了[《实例学PyTorch（4）：序列预测（一）——循环神经网络（RNN）》](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%B8%80%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9Crnn/)文章中使用的代码。
 
 ## 快速开始
 

@@ -2,7 +2,7 @@
 
 # PyTorch 语言模型（一）
 
-本文件夹包含了[实例学PyTorch（6）：语言模型——使用LSTM实现词级语言模型（一）](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch6%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%BD%BF%E7%94%A8lstm%E5%AE%9E%E7%8E%B0%E8%AF%8D%E7%BA%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%80/)文章中使用的代码。
+本文件夹包含了[实例学PyTorch（6）：语言模型（一）——使用LSTM实现词级语言模型](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch6%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%80%E4%BD%BF%E7%94%A8lstm%E5%AE%9E%E7%8E%B0%E8%AF%8D%E7%BA%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/)文章中使用的代码。
 
 ## 快速开始
 

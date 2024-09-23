@@ -2,7 +2,7 @@
 
 # PyTorch Series Prediction (1)
 
-This folder contains the code used in the article [Learn PyTorch by Example (4): Sequence Prediction with Recurrent Neural Networks (I)](https://jinli.io/en/p/learn-pytorch-by-example-4-sequence-prediction-with-recurrent-neural-networks-i/).
+This folder contains the code used in the article [Learn PyTorch by Examples (4): Sequence Prediction (I) -- Recurrent Neural Networks (RNN)](https://jinli.io/en/p/learn-pytorch-by-examples-4-sequence-prediction-i--recurrent-neural-networks-rnn/).
 
 ## Quick Start
 

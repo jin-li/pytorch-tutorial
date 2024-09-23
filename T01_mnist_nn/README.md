@@ -2,7 +2,7 @@
 
 # PyTorch MNIST 手写数字识别（一）
 
-本文件夹包含了[《实例学PyTorch（1）：PyTorch基础及MNIST手写数字识别（一）》](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch1pytorch%E5%9F%BA%E7%A1%80%E5%8F%8Amnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB/)文章中使用的代码。
+本文件夹包含了[《实例学PyTorch（1）：MNIST手写数字识别（一）——PyTorch基础和神经网络基础》](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch1mnist%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E4%B8%80pytorch%E5%9F%BA%E7%A1%80%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/)文章中使用的代码。
 
 ## 快速开始
 

@@ -2,7 +2,7 @@
 
 # PyTorch Language Model (I)
 
-This folder contains the code used in the article [Learn PyTorch by Examples (6): Language Model -- Implementing a Word-Level Language Model with LSTM (I)](https://jinli.io/en/p/learn-pytorch-by-examples-6-language-model--implementing-a-word-level-language-model-with-lstm-i/).
+This folder contains the code used in the article [Learn PyTorch by Examples (6): Language Model (I) -- Implementing a Word-Level Language Model with LSTM](https://jinli.io/en/p/learn-pytorch-by-examples-6-language-model-i--implementing-a-word-level-language-model-with-lstm/).
 
 ## Quick Start
 

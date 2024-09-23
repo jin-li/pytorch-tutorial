@@ -14,12 +14,13 @@ In the process of self-learning PyTorch, the author found that the official PyTo
 
 The "Learn PyTorch with Examples" series of articles are published on the author's personal blog, with both Chinese and English versions. The list of articles is as follows:
 
-- [Learn PyTorch by Examples（1）：PyTorch Basics and MNIST Handwritten Digit Recognition (I)](https://jinli.io/en/p/learn-pytorch-by-examples1pytorch-basics-and-mnist-handwritten-digit-recognition-i/)
-- [Learn PyTorch by Examples (2): Parameter Selection in MNIST Handwritten Digit Recognition (II)](https://jinli.io/en/p/learn-pytorch-by-examples-2-parameter-selection-in-mnist-handwritten-digit-recognition-ii/)
-- [Learn PyTorch by Examples (3): Implementing MNIST Handwritten Digit Recognition with Convolutional Neural Networks (III)](https://jinli.io/en/p/learn-pytorch-by-examples-3-implementing-mnist-handwritten-digit-recognition-with-convolutional-neural-networks-iii/)
-- [Learn PyTorch by Examples (4): Sequence Prediction with Recurrent Neural Networks (I)](https://jinli.io/en/p/learn-pytorch-by-examples-4-sequence-prediction-with-recurrent-neural-networks-i/)
-- [Learn PyTorch by Examples (5): Sequence Prediction with LSTM and GRU (II)](https://jinli.io/en/p/learn-pytorch-by-examples-5-sequence-prediction-with-lstm-and-gru-ii/)
-- [Learn PyTorch by Examples (6): Language Model -- Implementing a Word-Level Language Model with LSTM (I)](https://jinli.io/en/p/learn-pytorch-by-examples-6-language-model--implementing-a-word-level-language-model-with-lstm-i/)
+- [Learn PyTorch by Examples (1): MNIST Handwritten Digit Recognition (I) -- PyTorch Basics and Neural Network Basics](https://jinli.io/en/p/learn-pytorch-by-examples-1-mnist-handwritten-digit-recognition-i--pytorch-basics-and-neural-network-basics/)
+- [Learn PyTorch by Examples (2): MNIST Handwritten Digit Recognition (II) -- Parameter Selection in Neural Network](https://jinli.io/en/p/learn-pytorch-by-examples-2-mnist-handwritten-digit-recognition-ii--parameter-selection-in-neural-network/)
+- [Learn PyTorch by Examples (3): MNIST Handwritten Digit Recognition (III) -- Convolutional Neural Networks](https://jinli.io/en/p/learn-pytorch-by-examples-3-mnist-handwritten-digit-recognition-iii--convolutional-neural-networks/)
+- [Learn PyTorch by Examples (4): Sequence Prediction (I) -- Recurrent Neural Networks (RNN)](https://jinli.io/en/p/learn-pytorch-by-examples-4-sequence-prediction-i--recurrent-neural-networks-rnn/)
+- [Learn PyTorch by Examples (5): Sequence Prediction (II) -- Gated Recurrent Unit (GRU) and Long Short-Term Memory (LSTM)](https://jinli.io/en/p/learn-pytorch-by-examples-5-sequence-prediction-ii--gated-recurrent-unit-gru-and-long-short-term-memory-lstm/)
+- [Learn PyTorch by Examples (6): Language Model (I) -- Implementing a Word-Level Language Model with LSTM](https://jinli.io/en/p/learn-pytorch-by-examples-6-language-model-i--implementing-a-word-level-language-model-with-lstm/)
+
 
 ## Quick Start
 

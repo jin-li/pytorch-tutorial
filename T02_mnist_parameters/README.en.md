@@ -2,7 +2,7 @@
 
 # PyTorch MNIST Handwritten Digit Recognition (2)
 
-This folder contains the code used in the article [Learn PyTorch by Examples (2): Parameter Selection in MNIST Handwritten Digit Recognition (II)](https://jinli.io/en/p/learn-pytorch-by-examples-2-parameter-selection-in-mnist-handwritten-digit-recognition-ii/).
+This folder contains the code used in the article [Learn PyTorch by Examples (2): MNIST Handwritten Digit Recognition (II) -- Parameter Selection in Neural Network](https://jinli.io/en/p/learn-pytorch-by-examples-2-mnist-handwritten-digit-recognition-ii--parameter-selection-in-neural-network/).
 
 ## Quick Start
 

@@ -2,7 +2,7 @@
 
 # PyTorch Series Prediction (2)
 
-This folder contains the code used in the article [Learn PyTorch by Examples (5): Sequence Prediction with LSTM and GRU (II)](https://jinli.io/en/p/learn-pytorch-by-examples-5-sequence-prediction-with-lstm-and-gru-ii/).
+This folder contains the code used in the article [Learn PyTorch by Examples (5): Sequence Prediction (II) -- Gated Recurrent Unit (GRU) and Long Short-Term Memory (LSTM)](https://jinli.io/en/p/learn-pytorch-by-examples-5-sequence-prediction-ii--gated-recurrent-unit-gru-and-long-short-term-memory-lstm/).
 
 ## Quick Start
 

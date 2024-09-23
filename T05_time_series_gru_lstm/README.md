@@ -2,7 +2,7 @@
 
 # PyTorch 序列预测（二）
 
-本文件夹包含了[《实例学PyTorch（5）：使用GRU和LSTM实现序列预测（二）》](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch5%E4%BD%BF%E7%94%A8gru%E5%92%8Clstm%E5%AE%9E%E7%8E%B0%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%BA%8C/)文章中使用的代码。
+本文件夹包含了[《实例学PyTorch（5）：序列预测（二）——门控循环单元（GRU）和长短期记忆网络（LSTM）》](https://jinli.io/p/%E5%AE%9E%E4%BE%8B%E5%AD%A6pytorch5%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E4%BA%8C%E9%97%A8%E6%8E%A7%E5%BE%AA%E7%8E%AF%E5%8D%95%E5%85%83gru%E5%92%8C%E9%95%BF%E7%9F%AD%E6%9C%9F%E8%AE%B0%E5%BF%86%E7%BD%91%E7%BB%9Clstm/)文章中使用的代码。
 
 ## 快速开始
 

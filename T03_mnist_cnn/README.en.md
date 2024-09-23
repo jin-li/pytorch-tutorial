@@ -2,7 +2,7 @@
 
 # PyTorch MNIST Handwritten Digit Recognition (3)
 
-This folder contains the code used in the article [Learn PyTorch by Examples (3): Implementing MNIST Handwritten Digit Recognition with Convolutional Neural Networks (III)](https://jinli.io/en/p/learn-pytorch-by-examples-3-implementing-mnist-handwritten-digit-recognition-with-convolutional-neural-networks-iii/).
+This folder contains the code used in the article [Learn PyTorch by Examples (3): MNIST Handwritten Digit Recognition (III) -- Convolutional Neural Networks](https://jinli.io/en/p/learn-pytorch-by-examples-3-mnist-handwritten-digit-recognition-iii--convolutional-neural-networks/).
 
 ## Quick Start
 
