@@ -20,7 +20,7 @@ The "Learn PyTorch with Examples" series of articles are published on the author
 - [Learn PyTorch by Examples (4): Sequence Prediction (I) -- Recurrent Neural Networks (RNN)](https://jinli.io/en/p/learn-pytorch-by-examples-4-sequence-prediction-i--recurrent-neural-networks-rnn/)
 - [Learn PyTorch by Examples (5): Sequence Prediction (II) -- Gated Recurrent Unit (GRU) and Long Short-Term Memory (LSTM)](https://jinli.io/en/p/learn-pytorch-by-examples-5-sequence-prediction-ii--gated-recurrent-unit-gru-and-long-short-term-memory-lstm/)
 - [Learn PyTorch by Examples (6): Language Model (I) -- Implementing a Word-Level Language Model with LSTM](https://jinli.io/en/p/learn-pytorch-by-examples-6-language-model-i--implementing-a-word-level-language-model-with-lstm/)
-
+- [Learn PyTorch by Examples (7): Language Model (II) - Implement Word-Level Language Model with Transformer](https://jinli.io/en/p/learn-pytorch-by-examples-7-language-model-ii-implement-word-level-language-model-with-transformer/)
 
 ## Quick Start
 
