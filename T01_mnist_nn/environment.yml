@@ -1,0 +1,8 @@
+name: pytorch-t01
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision

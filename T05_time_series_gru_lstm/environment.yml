@@ -1,0 +1,9 @@
+name: pytorch-t05
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - numpy
+  - matplotlib

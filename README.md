@@ -29,7 +29,7 @@
 - 读者若只想运行某个项目，可阅读该项目的`README.md`文件，按照其中的步骤进行操作。
 - 读者若想详细学习了解某个项目，可阅读该项目对应的文章。
 
-各个项目所需的Python环境是分离的，每个项目所需的依赖在文件夹中的`requirements.txt`文件中列出。读者可以根据需要创建虚拟环境，然后安装依赖。关于Python虚拟环境的创建和管理，可参考作者的文章[《Python环境管理方式总结》](https://blog.jinli.io/p/python%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/)。
+各个项目所需的Python环境是分离的，每个项目所需的依赖在文件夹中的`requirements.txt`文件中列出（如果你使用`conda`系工具管理环境，请参见`environment.yml`文件）。读者可以根据需要创建虚拟环境，然后安装依赖。关于Python虚拟环境的创建和管理，可参考作者的文章[《Python环境管理方式总结》](https://blog.jinli.io/p/python%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/)。
 
 ## 鸣谢
 

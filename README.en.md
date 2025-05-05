@@ -29,7 +29,7 @@ The code for each project is placed in a separate folder, with the folder number
 - If you only want to run a specific project, you can read the `README.md` file of that project and follow the steps.
 - If you want to learn more about a specific project, you can read the article corresponding to that project.
 
-The Python environment required for each project is separate, and the dependencies required for each project are listed in the `requirements.txt` file in the folder. Readers can create a virtual environment as needed and then install the dependencies. For information on creating and managing Python virtual environments, please refer to the author's article [Python Environment Management with venv/conda/mamba](https://blog.jinli.io/en/p/python-environment-management-with-venv/conda/mamba/).
+The Python environment required for each project is separate, and the dependencies required for each project are listed in the `requirements.txt` file in the folder (if you use tools like `conda`, `mamba`, or `micromamba`, the dependencies are listed in the `environment.yml` file instead). Readers can create a virtual environment as needed and then install the dependencies. For information on creating and managing Python virtual environments, please refer to the author's article [Python Environment Management with venv/conda/mamba](https://blog.jinli.io/en/p/python-environment-management-with-venv/conda/mamba/).
 
 ## Acknowledgements
 

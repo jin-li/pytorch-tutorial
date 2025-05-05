@@ -8,19 +8,31 @@
 
 首先你需要创建一个运行本项目的Python虚拟环境，你可以使用`virtualenv`或者`conda`等工具来创建虚拟环境。可参考我的文章[《Python环境管理方式总结》](https://blog.jinli.io/p/python%E7%8E%AF%E5%A2%83%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/)。
 
-1. 安装依赖：
+1. **安装依赖**，这里提供两种方式：
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+    - `conda`/`mamba`/`micromamba`/`miniconda`等（**推荐**）：
 
-2. 运行代码：
+        ```bash
+        conda env create -f environment.yml
+        ```
+
+        若使用`mamba`或`micromamba`，请将上面的命令中的`conda`替换为`mamba`或`micromamba`。
+    
+    - `pip`：
+
+        若使用`pip`，请确保python版本为3.11。我试过Python 3.12，安装`torchvision`时会报版本不匹配的错误。我没有测试过更低版本的Python。
+
+        ```bash
+        pip install -r requirements.txt
+        ```
+
+2. **运行代码**：
 
     ```bash
     python plot_performance.py
     ```
 
-3. 识别手写数字：
+3. **识别手写数字**：
 
     你可以自己创建一个要识别的手写数字图片，然后运行`classify.py`来识别这个图片。我在`numbers`文件夹中提供了一些我自己写的示例图片，你可以使用这些图片来测试。
 
