@@ -2,11 +2,11 @@
 
 # PyTorch Series Prediction (2)
 
-This folder contains the code used in the article [Learn PyTorch by Examples (5): Sequence Prediction (II) -- Gated Recurrent Unit (GRU) and Long Short-Term Memory (LSTM)](https://jinli.io/en/p/learn-pytorch-by-examples-5-sequence-prediction-ii--gated-recurrent-unit-gru-and-long-short-term-memory-lstm/).
+This folder contains the code used in the article [Learn PyTorch by Examples (5): Sequence Prediction (II) -- Gated Recurrent Unit (GRU) and Long Short-Term Memory (LSTM)](https://blog.jinli.io/en/p/learn-pytorch-by-examples-5-sequence-prediction-ii--gated-recurrent-unit-gru-and-long-short-term-memory-lstm/).
 
 ## Quick Start
 
-First, you need to create a Python virtual environment to run this project. You can use `virtualenv` or `conda` and other tools to create a virtual environment. You can refer to my article [Python Environment Management with venv/conda/mamba](https://jinli.io/en/p/python-environment-management-with-venv/conda/mamba/).
+First, you need to create a Python virtual environment to run this project. You can use `virtualenv` or `conda` and other tools to create a virtual environment. You can refer to my article [Python Environment Management with venv/conda/mamba](https://blog.jinli.io/en/p/python-environment-management-with-venv/conda/mamba/).
 
 1. Install dependencies:
 
